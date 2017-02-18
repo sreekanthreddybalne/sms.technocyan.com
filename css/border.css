@@ -1,0 +1,40 @@
+.s_circle {
+    border-radius: 50%!important
+}
+.s_round-small {
+    border-radius: 2px!important
+}
+.s_round,
+.s_round-medium {
+    border-radius: 4px!important
+}
+.s_round-large {
+    border-radius: 8px!important
+}
+.s_round-xlarge {
+    border-radius: 16px!important
+}
+.s_round-xxlarge {
+    border-radius: 32px!important
+}
+.s_round-jumbo {
+    border-radius: 64px!important
+}
+.s_border-0 {
+    border: 0!important
+}
+.s_border {
+    border: 1px solid #ccc!important
+}
+.s_border-top {
+    border-top: 1px solid #ccc!important
+}
+.s_border-bottom {
+    border-bottom: 1px solid #ccc!important
+}
+.s_border-left {
+    border-left: 1px solid #ccc!important
+}
+.s_border-right {
+    border-right: 1px solid #ccc!important
+}

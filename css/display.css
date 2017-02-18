@@ -1,0 +1,59 @@
+.s_vertical {
+    word-break: break-all;
+    line-height: 1;
+    text-align: center;
+    width: 0.6em
+}
+.s_left-align {
+    text-align: left!important
+}
+.s_right-align {
+    text-align: right!important
+}
+.s_justify {
+    text-align: justify!important
+}
+.s_center {
+    text-align: center!important
+}
+.s_display-topleft {
+    position: absolute;
+    left: 0;
+    top: 0
+}
+.s_display-topright {
+    position: absolute;
+    right: 0;
+    top: 0
+}
+.s_display-bottomleft {
+    position: absolute;
+    left: 0;
+    bottom: 0
+}
+.s_display-bottomright {
+    position: absolute;
+    right: 0;
+    bottom: 0
+}
+.s_display-middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%)
+}
+.s_display-topmiddle {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    text-align: center
+}
+.s_display-bottommiddle {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center
+}
